@@ -20,5 +20,3 @@ Seed:https://research.google.com/seedbank/seed/deepdream
 
 Seed:https://research.google.com/seedbank/seed/convolutional_vae
 
-6、一点点
-hkkhkh
